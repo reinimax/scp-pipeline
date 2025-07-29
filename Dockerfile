@@ -1,4 +1,4 @@
-FROM python:3.8.3-slim-buster
+FROM python:3.9-bookworm
 
 LABEL "maintainer"="Scott Ng <thuongnht@gmail.com>"
 LABEL "repository"="https://github.com/cross-the-world/scp-pipeline"
